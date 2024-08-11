@@ -1,9 +1,8 @@
 # Translation and Comparison Gemini #buildwithgemini
-This project, developed for the **Google Gemini Hackathon** "#buildwithgemini" Aug Developer Contest**, aims to translate and compare the translation capabilities of **Gemini**, **OpenAI**, and **Deepl**. It features a **React** frontend utilizing **Vite** for efficient bundling and a **Node.js** backend for server-side operations. Data resulting from the comparisons is stored in a **PostgreSQL** database for analysis. Below, detailed instructions for setup and execution of the project are provided, along with additional pertinent information.
+This project, developed for the **Google Gemini Hackathon** "#buildwithgemini" Aug 2024 Developer Contest**, aims to translate and compare the translation capabilities of **Gemini**, **OpenAI**, and **Deepl**. It features a **React** frontend utilizing **Vite** for efficient bundling and a **Node.js** backend for server-side operations. Data resulting from the comparisons is stored in a **PostgreSQL** database for analysis. Below, detailed instructions for setup and execution of the project are provided, along with additional pertinent information.
 
 ## Table of Contents
 - [Video Demo](#video-demo)
-- [Insights & Visuals](#insights--visuals)
 - [Live Demo](#live-demo)
 - [Project Structure](#project-structure)
 - [Running the Application](#running-the-application)
@@ -14,13 +13,7 @@ This project, developed for the **Google Gemini Hackathon** "#buildwithgemini" A
 
 ## Video Demo Youtube
 - [Overview](https://youtu.be/024O7ulMLYw)
-- [ English Chinese Comparison] Todo
-- [English French Comparison](todo)
-## Insights & Visuals
-Todo
-
-### Jupyter Notebook
-Todo
+- [Translation Showdown/Comparison] (https://youtu.be/OKZzCsR6YVU)
 
 ## Live Demo
 Experience the translation comparison in action at [https://geminifrontend.onrender.com/](https://geminifrontend.onrender.com/).
