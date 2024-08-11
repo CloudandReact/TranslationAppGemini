@@ -13,7 +13,7 @@ This project, developed for the **Google Gemini Hackathon** "#buildwithgemini" A
 
 ## Video Demo Youtube
 - [Overview](https://youtu.be/024O7ulMLYw)
-- [Translation Showdown/Comparison] (https://youtu.be/OKZzCsR6YVU)
+- [Translation Showdown/Comparison](https://youtu.be/OKZzCsR6YVU)
 
 ## Live Demo
 Experience the translation comparison in action at [https://geminifrontend.onrender.com/](https://geminifrontend.onrender.com/).
@@ -42,7 +42,7 @@ project-root
 Clone the repository , install libraries run appl:
 
    ```sh
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/CloudandReact/TranslationAppGemini.git
    cd project-name
    cd Backend
    npm install
