@@ -18,6 +18,7 @@ This project, developed for the **Google Gemini Hackathon** "#buildwithgemini" A
 
 ## Insights & Visuals
 In Short **gemini-1.5-flash-latest** outperformed **gemini-1.5-pro-latest**. However, further analysis would be necessary to confirm this conclusively.
+Additionally, I have excluded from the comparison all instances where Gemini Pro calls resulted in errors. Otherwise, its score would be approximately 1 point lower out of 10.
 
 ![Translation Comparison ](images/AverageScore.png)
 
