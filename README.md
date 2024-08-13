@@ -3,6 +3,7 @@ This project, developed for the **Google Gemini Hackathon** "#buildwithgemini" A
 
 ## Table of Contents
 - [Video Demo](#video-demo)
+- [Insights & Visuals](#insights--visuals)
 - [Live Demo](#live-demo)
 - [Project Structure](#project-structure)
 - [Running the Application](#running-the-application)
@@ -14,6 +15,14 @@ This project, developed for the **Google Gemini Hackathon** "#buildwithgemini" A
 ## Video Demo Youtube
 - [Overview](https://youtu.be/024O7ulMLYw)
 - [Translation Showdown/Comparison](https://youtu.be/OKZzCsR6YVU)
+
+## Insights & Visuals
+In Short **gemini-1.5-flash-latest** outperformed **gemini-1.5-pro-latest**. However, further analysis would be necessary to confirm this conclusively.
+
+![Translation Comparison ](images/AverageScore.png)
+
+
+![Distribution By Model](images/ScoreDistribution.png)
 
 ## Live Demo
 Experience the translation comparison in action at [https://geminifrontend.onrender.com/](https://geminifrontend.onrender.com/).
